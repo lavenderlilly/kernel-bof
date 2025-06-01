@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+    babykernel:
+        build: .
+        ports:
+            - "55555:55555"
