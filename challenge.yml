@@ -1,0 +1,11 @@
+name: babykernel
+category: pwnable
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+port: 55555
+description: 👶🍼
+
+flag: hspace{4re_yOu_R3ADY_70_EnJOy_hsp@c3_h@rdWArE_CTF?!?!}
+chall_dir: pwnable-babykernel
+compose_file: pwnable-babykernel/prob/for_organizer/docker-compose.yml
